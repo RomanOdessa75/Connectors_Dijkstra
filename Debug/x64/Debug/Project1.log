@@ -1,0 +1,9 @@
+﻿  CObjects.cpp
+G:\Projects\C Projects\Connectors\CObjects.cpp(100,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+G:\Projects\C Projects\Connectors\CObjects.cpp(106,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+G:\Projects\C Projects\Connectors\CObjects.cpp(226,38): warning C4838: conversion from 'unsigned __int64' to 'LONG' requires a narrowing conversion
+G:\Projects\C Projects\Connectors\CObjects.cpp(226,38): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+G:\Projects\C Projects\Connectors\CObjects.cpp(226,62): warning C4838: conversion from 'unsigned __int64' to 'LONG' requires a narrowing conversion
+G:\Projects\C Projects\Connectors\CObjects.cpp(226,62): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+G:\Projects\C Projects\Connectors\CObjects.cpp(353,16): warning C4553: '==': result of expression not used; did you intend '='?
+  Project1.vcxproj -> G:\Projects\C Projects\Connectors\x64\Debug\Project1.exe

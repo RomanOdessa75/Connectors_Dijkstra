@@ -1,0 +1,23 @@
+﻿  CObjects.cpp
+D:\PROJECT\!misc\Roma\Connectors\Graph.h(15,12): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+D:\PROJECT\!misc\Roma\Connectors\CObjects.h(33,7): message : see declaration of 'Node'
+D:\PROJECT\!misc\Roma\Connectors\Graph.h(27,1): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+D:\PROJECT\!misc\Roma\Connectors\Graph.h(26,8): message : see declaration of 'Node'
+D:\Program Files (x86)\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\optional(12): warning STL4038: The contents of <optional> are available only with C++17 or later.
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(116,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(122,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(245,33): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(253,37): warning C4267: '=': conversion from 'size_t' to 'LONG', possible loss of data
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(278,38): warning C4838: conversion from 'unsigned __int64' to 'LONG' requires a narrowing conversion
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(278,38): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(278,62): warning C4838: conversion from 'unsigned __int64' to 'LONG' requires a narrowing conversion
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(278,62): warning C4267: 'initializing': conversion from 'size_t' to 'LONG', possible loss of data
+D:\PROJECT\!misc\Roma\Connectors\CObjects.cpp(414,16): warning C4553: '==': result of expression not used; did you intend '='?
+  Graph.cpp
+D:\PROJECT\!misc\Roma\Connectors\Graph.h(15,12): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+D:\PROJECT\!misc\Roma\Connectors\CObjects.h(33,7): message : see declaration of 'Node'
+D:\PROJECT\!misc\Roma\Connectors\Graph.h(27,1): warning C4099: 'Node': type name first seen using 'class' now seen using 'struct'
+D:\PROJECT\!misc\Roma\Connectors\Graph.h(26,8): message : see declaration of 'Node'
+  Project1.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\PROJECT\!misc\Roma\Connectors\x64\Debug\Project1.exe
